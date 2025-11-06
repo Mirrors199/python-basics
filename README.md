@@ -15,3 +15,4 @@ Welcome to my Python Basics repository! This is where I practice Python programm
 - Practice loops, functions, and conditionals
 - Understand GitHub commits and version control
 - Build small Python projects step by step
+- **guess_the_number.py** — Try to guess the computer's random number
